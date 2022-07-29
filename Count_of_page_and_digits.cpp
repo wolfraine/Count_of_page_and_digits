@@ -70,7 +70,7 @@ int main()
 		}
 		break;
 	default:
-		std::cout << "ERROR END OF PROGRAM";
+		std::cout << "ERROR WRONG CHOICE END OF PROGRAM";
 	}
 
 }
