@@ -1,1 +1,1 @@
-# Count_of_page_and_digits
+# Simple program to count number of digits and pages in books
